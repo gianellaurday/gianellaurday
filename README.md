@@ -1,7 +1,5 @@
 # ¡Hola! Soy Gianella Urday Ibarra 👋
 
-# Gianella Urday Ibarra 👋
-
 **Bachiller en Ingeniería de Sistemas | Trainee AS400 / RPGLE**
 
 Soy una profesional con un enfoque analítico desarrollado a través de 6 años de investigación científica. Mi experiencia se centra en el procesamiento de datos y la aplicación de algoritmos de Inteligencia Artificial para la resolución de problemas en el sector de la construcción.
