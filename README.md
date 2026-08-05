@@ -33,8 +33,10 @@ Recientemente obtuve el **Google Project Management Professional Certificate** y
 - Visualización de datos
 
 ### 💻 Programación
-- Python (nivel básico)
-- Visual Basic (nivel básico)
+- RPGLE (básico)
+- CL (básico)
+- Python (básico)
+- Visual Basic (básico)
 
 ### 📚 Otras competencias
 - Investigación científica
@@ -50,20 +52,49 @@ Recientemente obtuve el **Google Project Management Professional Certificate** y
 ### 📊 Google Project Management Learning Dashboard
 Dashboard interactivo desarrollado en Power BI para realizar el seguimiento del **Google Project Management Professional Certificate**, incorporando indicadores de desempeño, métricas Agile, seguimiento del progreso, lecciones aprendidas y visualización de datos.
 
-**Tecnologías:** Power BI · Excel · DAX
+Incluye:
 
----
-
-### 📈 Agile Dashboard
-Dashboard enfocado en métricas de gestión ágil, incluyendo:
-
+- KPIs del proyecto
+- Seguimiento del progreso
 - Burndown Chart
-- Velocity por Sprint
+- Sprint Velocity
 - Horas planificadas vs. reales
-- Project Review
-- KPIs de seguimiento del proyecto
+- Lessons Learned
+- Dashboard Ejecutivo
+- Dashboard Agile
+
+**Tecnologías**
+
+- Power BI
+- DAX
+- Microsoft Excel
+
+🔗 Repositorio:
+https://github.com/gianellaurday/Google-PM-Learning-Dashboard
 
 ---
+
+## 💻 RPGLE & AS400 Practices
+
+Repositorio desarrollado durante el bootcamp **Tech Girl Power AS400** de NTT DATA Perú.
+
+Incluye ejercicios prácticos para reforzar conocimientos en:
+
+- RPGLE
+- CL
+- IBM i (AS400)
+- Programación estructurada
+- Manejo de archivos y lógica de negocio
+
+**Tecnologías**
+
+- RPGLE
+- CL
+- IBM i (AS400)
+
+🔗 Repositorio:
+https://github.com/gianellaurday/RPGLE-AS400-Practices
+
 
 ### 🤖 Investigación Científica
 Participación en proyectos de investigación aplicando algoritmos de Machine Learning y Visión por Computadora para el procesamiento y análisis de datos en el sector construcción.
@@ -85,4 +116,3 @@ Participación en proyectos de investigación aplicando algoritmos de Machine Le
 ---
 
 ⭐ Gracias por visitar mi perfil de GitHub. Aquí encontrarás proyectos orientados a **Project Management**, **Power BI**, **Análisis de Datos** y el aprendizaje continuo.
-Una recomendación adicional
