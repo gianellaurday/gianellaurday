@@ -1,34 +1,88 @@
 # ¡Hola! Soy Gianella Urday Ibarra 👋
 
-**Bachiller en Ingeniería de Sistemas | Trainee AS400 / RPGLE**
+**Bachiller en Ingeniería de Sistemas | Project Management | Power BI | Análisis de Datos**
 
-Soy una profesional con un enfoque analítico desarrollado a través de 6 años de investigación científica. Mi experiencia se centra en el procesamiento de datos y la aplicación de algoritmos de Inteligencia Artificial para la resolución de problemas en el sector de la construcción.
+Soy bachiller en Ingeniería de Sistemas con casi 6 años de experiencia como asistente de investigación en el Instituto de Investigación Científica (IDIC) de la Universidad de Lima. Durante ese tiempo participé en proyectos de investigación realizando análisis y procesamiento de datos, documentación técnica y apoyo en la elaboración de publicaciones científicas indexadas internacionalmente.
 
----
-
-### 📊 Experiencia en Investigación y Producción Científica
-* **Trayectoria:** 6 años como Asistente de Investigación en el IDIC - Universidad de Lima.
-* **Especialidad:** Uso aplicativo de algoritmos de Machine Learning y visión computacional para procesamiento de datos complejos.
-* **Publicaciones:** Coautora de 8 artículos científicos indexados internacionalmente (Data in Brief, Applied Sciences).
-  * 🔗 **Perfil ORCID:** [0000-0001-8556-6748](https://orcid.org/0000-0001-8556-6748)
-* **Competencias:** Alto rigor metodológico, atención al detalle y disciplina en el cumplimiento de plazos.
+Recientemente obtuve el **Google Project Management Professional Certificate** y he complementado mi perfil desarrollando proyectos prácticos en **Power BI**, aplicando conceptos de gestión de proyectos, metodologías ágiles y visualización de datos.
 
 ---
 
-### 💻 Formación Técnica y Skills
-* **Sistemas Legacy:** Graduada del bootcamp **"Tech Girl Power AS400" por NTT DATA PERÚ**.
-  * Capacitación en arquitectura IBM i, programación **RPGLE** y rutinas **CL**.
-  * Aplicación de IA Generativa para la comprensión de lógica heredada y documentación de procesos.
-* **Lenguajes:** Python (Nivel básico aplicado a scripts de procesamiento) y Visual Basic (Básico).
-* **Idiomas:** Inglés nivel Avanzado.
+## 📊 Experiencia
+
+- **6 años** como Asistente de Investigación en el IDIC – Universidad de Lima.
+- Análisis y procesamiento de datos para proyectos de investigación.
+- Elaboración de documentación técnica y reportes técnicos.
+- Coautora de **8 publicaciones científicas** en revistas indexadas internacionalmente.
+- Trabajo colaborativo con equipos multidisciplinarios y cumplimiento de cronogramas de investigación.
+
+🔗 **ORCID:** [0000-0001-8556-6748](https://orcid.org/0000-0001-8556-6748)
+
+---
+## 🛠️ Habilidades
+
+### 📋 Gestión de Proyectos
+- Planificación y seguimiento de proyectos
+- Metodologías Ágiles (Agile y Scrum)
+- Documentación de proyectos
+
+### 📊 Análisis de Datos
+- Power BI
+- Microsoft Excel
+- Diseño de dashboards
+- Visualización de datos
+
+### 💻 Programación
+- Python (nivel básico)
+- Visual Basic (nivel básico)
+
+### 📚 Otras competencias
+- Investigación científica
+- Documentación técnica
+- Organización y planificación
+- Atención al detalle
+- Mejora de procesos
+- Inglés avanzado
+
+---
+## 🚀 Proyectos Destacados
+
+### 📊 Google Project Management Learning Dashboard
+Dashboard interactivo desarrollado en Power BI para realizar el seguimiento del **Google Project Management Professional Certificate**, incorporando indicadores de desempeño, métricas Agile, seguimiento del progreso, lecciones aprendidas y visualización de datos.
+
+**Tecnologías:** Power BI · Excel · DAX
 
 ---
 
-### 🎯 Objetivo Profesional
-Busco mi primera oportunidad laboral como **Trainee o Junior en AS400**. Mi meta es integrar mi capacidad analítica y rigor científico para contribuir a la estabilidad y documentación de sistemas core en el sector financiero o corporativo.
+### 📈 Agile Dashboard
+Dashboard enfocado en métricas de gestión ágil, incluyendo:
+
+- Burndown Chart
+- Velocity por Sprint
+- Horas planificadas vs. reales
+- Project Review
+- KPIs de seguimiento del proyecto
+
+---
+
+### 🤖 Investigación Científica
+Participación en proyectos de investigación aplicando algoritmos de Machine Learning y Visión por Computadora para el procesamiento y análisis de datos en el sector construcción.
+
+---
+
+## 📜 Certificaciones
+
+- Google Project Management Professional Certificate — Google / Coursera
+- Tech Girl Power AS400 — NTT DATA Perú
+- Google UX Design Professional Certificate - Google / Coursera
 
 ---
 
 ### 📫 Contacto
 * **LinkedIn:** [linkedin.com/in/gurday/](https://www.linkedin.com/in/gurday)
 * **Email:** [gianellaurday@gmail.com](mailto:gianellaurday@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil de GitHub. Aquí encontrarás proyectos orientados a **Project Management**, **Power BI**, **Análisis de Datos** y el aprendizaje continuo.
+Una recomendación adicional
