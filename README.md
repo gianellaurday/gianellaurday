@@ -11,7 +11,7 @@ Recientemente obtuve el **Google Project Management Professional Certificate** y
 ## 📊 Experiencia
 
 - **6 años** como Asistente de Investigación en el IDIC – Universidad de Lima.
-- Análisis y procesamiento de datos para proyectos de investigación.
+- Análisis y procesamiento de datos para **proyectos de investigación**.
 - Elaboración de documentación técnica y reportes técnicos.
 - Coautora de **8 publicaciones científicas** en revistas indexadas internacionalmente.
 - Trabajo colaborativo con equipos multidisciplinarios y cumplimiento de cronogramas de investigación.
@@ -94,10 +94,6 @@ Incluye ejercicios prácticos para reforzar conocimientos en:
 
 🔗 Repositorio:
 https://github.com/gianellaurday/RPGLE-AS400-Practices
-
-
-### 🤖 Investigación Científica
-Participación en proyectos de investigación aplicando algoritmos de Machine Learning y Visión por Computadora para el procesamiento y análisis de datos en el sector construcción.
 
 ---
 
