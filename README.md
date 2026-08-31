@@ -25,6 +25,8 @@ Recientemente obtuve el **Google Project Management Professional Certificate** y
 - Planificación y seguimiento de proyectos
 - Metodologías Ágiles (Agile y Scrum)
 - Documentación de proyectos
+- Gestión de Stakeholders
+- Jira (gestión de tareas, dependencias, tableros Kanban)
 
 ### 📊 Análisis de Datos
 - Power BI
@@ -74,6 +76,29 @@ https://github.com/gianellaurday/Google-PM-Learning-Dashboard
 
 ---
 
+### 📋 Google Stakeholder Management — Project Case Study
+Caso de estudio aplicado de Project Management: gestioné la especialización **Google Stakeholder Management** (Coursera) como un proyecto real, aplicando el ciclo de vida completo (Iniciación, Planificación, Ejecución, Monitoreo y Cierre) con documentación formal (Charter, WBS, Cronograma, Risk Register, Communications Log).
+
+A diferencia del caso de estudio anterior, aquí incorporé **Jira** como herramienta operativa: jerarquía Epic → Task, dependencias entre tareas y seguimiento de horas reales vs. estimadas.
+
+Incluye:
+- WBS de 2 niveles (Curso = Epic, Módulo = Task)
+- Cronograma con dependencias en Jira
+- Tablero Kanban (Por hacer → En curso → Listo)
+- Risk Register: 7 riesgos identificados y cerrados
+- Dashboard de seguimiento en Power BI
+- 3 de 3 cursos completados (100%) · Promedio 96.39%
+
+**Tecnologías**
+- Power BI (Power Query, DAX)
+- Jira (Atlassian)
+- Microsoft Excel
+
+🔗 Repositorio:
+https://github.com/gianellaurday/Google-StakehM-Learning-Dashboard
+
+---
+
 ## 💻 RPGLE & AS400 Practices
 
 Repositorio desarrollado durante el bootcamp **Tech Girl Power AS400** de NTT DATA Perú.
@@ -99,6 +124,7 @@ https://github.com/gianellaurday/RPGLE-AS400-Practices
 
 ## 📜 Certificaciones
 
+- Google Stakeholder Management Specialization — Google / Coursera
 - Google Project Management Professional Certificate — Google / Coursera
 - Tech Girl Power AS400 — NTT DATA Perú
 - Google UX Design Professional Certificate - Google / Coursera
