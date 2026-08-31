@@ -87,7 +87,6 @@ Incluye:
 - Tablero Kanban (Por hacer → En curso → Listo)
 - Risk Register: 7 riesgos identificados y cerrados
 - Dashboard de seguimiento en Power BI
-- 3 de 3 cursos completados (100%) · Promedio 96.39%
 
 **Tecnologías**
 - Power BI (Power Query, DAX)
