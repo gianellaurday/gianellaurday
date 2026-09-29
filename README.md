@@ -146,6 +146,7 @@ https://github.com/gianellaurday/RPGLE-AS400-Practices
 
 ## 📜 Certificaciones
 
+- Advanced Project Management: Asana, Jira, Confluence, and AI - Coursera
 - Google Stakeholder Management Specialization — Google / Coursera
 - Google Project Management Professional Certificate — Google / Coursera
 - Tech Girl Power AS400 — NTT DATA Perú
